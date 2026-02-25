@@ -84,10 +84,13 @@ MariaDB • MongoDB
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<!-- Use the local GitHub Action-generated SVG -->
-![Metrics](./github-metrics.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mharomoincpass&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mharomoincpass&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mharomoincpass&theme=tokyonight&hide_border=true)
 
 ---
 
