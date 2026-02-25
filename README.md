@@ -7,16 +7,32 @@ Specialized in production-grade backend systems, NLP pipelines, and cloud deploy
 
 <br/>
 
-## 🌐 Live Platform
+## 🌐 Live Platforms
 
 <p align="center">
-  <a href="https://mharomo.systems/" target="_blank">
-    <img 
-      src="https://image.thum.io/get/width/1200/crop/800/https://mharomo.systems/" 
-      width="720"
-      style="border-radius:16px; border:1px solid #e1e4e8;"
-    />
-  </a>
+
+### 🧠 Mharomo Systems  
+Production Deployment  
+<a href="https://mharomo.systems/" target="_blank">mharomo.systems</a>
+
+<br/><br/>
+
+### 🧠 Grocliq AI  
+Production Deployment  
+<a href="https://grocliq.ai/" target="_blank">grocliq.ai</a>
+
+<br/><br/>
+
+### 📊 OpenSignals AI  
+Production Deployment  
+<a href="https://opensignals.ai/" target="_blank">opensignals.ai</a>
+
+<br/><br/>
+
+### 📈 Incpass  
+Production Deployment  
+<a href="https://incpass.co/" target="_blank">incpass.co</a>
+
 </p>
 
 <p align="center">
