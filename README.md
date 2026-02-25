@@ -6,41 +6,12 @@ I design and deploy scalable web platforms and AI-powered microservices.
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
 <br/>
+## Live Platforms
 
-## 🌐 Live Platforms
-
-<p align="center">
-
-### 🧠 Mharomo Systems  
-Production Deployment  
-<a href="https://mharomo.systems/" target="_blank">mharomo.systems</a>
-
-<br/><br/>
-
-### 🧠 Grocliq AI  
-Production Deployment  
-<a href="https://grocliq.ai/" target="_blank">grocliq.ai</a>
-
-<br/><br/>
-
-### 📊 OpenSignals AI  
-Production Deployment  
-<a href="https://opensignals.ai/" target="_blank">opensignals.ai</a>
-
-<br/><br/>
-
-### 📈 Incpass  
-Production Deployment  
-<a href="https://incpass.co/" target="_blank">incpass.co</a>
-
-</p>
-
-<p align="center">
-  <strong>Production Deployment:</strong><br/>
-  <a href="https://mharomo.systems/">mharomo.systems</a>
-</p>
-
-<br/>
+- **Mharomo Systems** — https://mharomo.systems  
+- **Grocliq AI** — https://grocliq.ai  
+- **OpenSignals AI** — https://opensignals.ai  
+- **Incpass** — https://incpass.co  
 
 ---
 ## 📊 GitHub Stats
