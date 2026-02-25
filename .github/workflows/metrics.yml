@@ -2,10 +2,10 @@ name: Metrics
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,16 +14,19 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics (topics icons)
-        uses: lowlighter/metrics@latest
+      - name: Generate starred topics (icons)
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Mharomoincpass
-          template: classic
+
+          # output file committed to your repo root
           filename: metrics.plugin.topics.icons.svg
+
+          # render ONLY the topics panel
           base: ""
+
           plugin_topics: yes
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          plugin_topics_limit: 40
-          plugin_topics_icons: yes
+          plugin_topics_limit: 48
