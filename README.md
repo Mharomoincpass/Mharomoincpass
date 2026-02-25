@@ -6,14 +6,15 @@ I design and deploy scalable web platforms and AI-powered microservices.
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
 <p align="center">
-  <iframe 
-    src="https://mharomo.systems/" 
-    width="600" 
-    height="350" 
-    style="border:1px solid #1f2937; border-radius:12px;"
-    loading="lazy">
-  </iframe>
+  <a href="https://mharomo.systems/" target="_blank">
+    <img 
+      src="https://api.microlink.io/?url=https://mharomo.systems/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" 
+      width="600"
+      style="border-radius:16px;"
+    />
+  </a>
 </p>
+
 ---
 ## 📊 GitHub Stats
 
