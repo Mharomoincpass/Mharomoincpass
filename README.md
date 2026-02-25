@@ -10,7 +10,7 @@ I design and deploy scalable web platforms and AI-powered microservices.
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
 <p align="center">
-  <img src="./metrics.plugin.topics.icons.svg" alt="Starred topics icons" />
+  <img src="https://raw.githubusercontent.com/Mharomoincpass/Mharomoincpass/main/metrics.plugin.topics.icons.svg" alt="Starred topics" />
 </p>
 ---
 ## 📊 GitHub Stats
