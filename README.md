@@ -5,14 +5,26 @@ Tech Lead | ML Systems Engineer | Cloud-Native Architect
 I design and deploy scalable web platforms and AI-powered microservices.  
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
+<br/>
+
+## 🌐 Live Platform
+
 <p align="center">
   <a href="https://mharomo.systems/" target="_blank">
     <img 
-      src="https://image.thum.io/get/width/1200/https://mharomo.systems/" 
-      width="750"
+      src="https://image.thum.io/get/width/1200/crop/800/https://mharomo.systems/" 
+      width="720"
+      style="border-radius:16px; border:1px solid #e1e4e8;"
     />
   </a>
 </p>
+
+<p align="center">
+  <strong>Production Deployment:</strong><br/>
+  <a href="https://mharomo.systems/">mharomo.systems</a>
+</p>
+
+<br/>
 
 ---
 ## 📊 GitHub Stats
