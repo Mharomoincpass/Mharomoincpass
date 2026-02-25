@@ -1,58 +1,105 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mharomo%20Ezung&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mharomo%20Ezung&fontSize=42&fontColor=ffffff" />
 </p>
 
-# Mharomo Ezung 👋
+# 👋 Hi, I'm Mharomo Ezung
 
-Tech Lead | ML Systems | Cloud-Native Architect
+Tech Lead | ML Systems Engineer | Cloud-Native Architect  
 
-I design and deploy scalable web platforms and AI-powered microservices.
-Experienced in building production-grade systems using Node.js, Python, Google Cloud, AWS, and Vertex AI.
+I design and deploy scalable web platforms and AI-powered microservices.  
+Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
 ---
 
-## 🔥 What I Work On
+## 🔥 Core Focus Areas
 
-- ML Microservices (HuggingFace, NLP, embeddings, inference pipelines)
-- Cloud-native deployment (GCP Cloud Run, AWS EC2)
-- Workflow-driven business platforms
+- Machine Learning Microservices (HuggingFace, NLP, embeddings, inference)
+- Cloud-native deployment (Google Cloud Run, AWS EC2)
+- Workflow-driven enterprise platforms
 - Generative Engine Optimization systems
-- AI-powered competitive intelligence platforms
+- AI-powered competitor intelligence platforms
+- Backend architecture & scalable REST systems
 
 ---
 
-## 🏗 Architecture Focus
+## 🚀 Production Systems
 
-- RESTful backend systems (Node.js, CodeIgniter)
-- ML service orchestration (Python + HuggingFace)
-- Cloud deployment pipelines
-- Containerized microservices
-- CI/CD workflows
+### 🧠 Grocliq GEO – Generative Engine Optimization Platform
+AI-powered monitoring system measuring brand presence across AI search engines.  
+- Real-time brand scoring (ABV)
+- NLP similarity computation
+- Embedding-based semantic analysis
+- Deployed on Google Cloud Run with serverless scaling  
+**Stack:** Node.js, Python, HuggingFace, Vertex AI, GCP
 
 ---
 
-## 🚀 Featured Systems
+### 📊 Incpass – Business Management Platform
+Multi-portal compliance & workflow engine for business incorporation and accounting.  
+- Admin / Client / Vendor portals  
+- Automated document generation  
+- Role-based authentication  
+- Optimized query performance (30% reduction in load time)  
+**Stack:** CodeIgniter 3, MariaDB, AWS EC2
 
-### Grocliq GEO – Generative Engine Optimization Platform
-AI-powered monitoring and brand visibility scoring system deployed on GCP Cloud Run.
+---
 
-### Incpass – Business Workflow Platform
-Multi-portal compliance and accounting system supporting hundreds of concurrent users.
+### 📈 OpenSignals.ai – AI Competitor Intelligence
+Automated scraper + ML classification pipeline for Meta Ads intelligence.  
+- Creative variation generation  
+- Campaign monitoring dashboard  
+- Scheduled scraping pipelines  
+**Stack:** Python, Node.js, React, Meta Ads API
 
-### OpenSignals.ai – AI Competitor Intelligence
-Automated scraping, ML classification, and ad benchmarking engine integrated with Meta Ads.
+---
+
+## 🏗 Architecture Expertise
+
+- Microservice-oriented design
+- Containerized deployments (Docker)
+- CI/CD pipelines (GitHub Actions)
+- REST API design & optimization
+- Scalable database design (MongoDB, MariaDB)
+- Cloud infrastructure management
 
 ---
 
 ## 🛠 Tech Stack
 
-Node.js • Python • React • Next.js  
+### Backend
+Node.js • Python • CodeIgniter • REST APIs
+
+### Frontend
+React • Next.js • Recharts
+
+### Cloud & DevOps
 Google Cloud Run • AWS EC2 • Azure  
-Vertex AI • HuggingFace • NLP  
-Docker • GitHub Actions • MariaDB • MongoDB  
+Docker • GitHub Actions • Linux VM
+
+### AI / ML
+HuggingFace • Vertex AI • NLP • Embeddings • Model Inference
+
+### Databases
+MariaDB • MongoDB
 
 ---
 
 ## 📊 GitHub Activity
 
-![Metrics](https://metrics.lecoq.io/Mharomoincpass?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&plugin_isocalendar=1&plugin_languages=1&plugin_languages.sections=most-used&plugin_languages.limit=8&config.timezone=Asia%2FKolkata)
+<!-- Use the local GitHub Action-generated SVG -->
+![Metrics](./github-metrics.svg)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/mharamo-ezung
+- Email: mharomoezs@gmail.com
+
+---
+
+## ⚡ Philosophy
+
+Build systems that scale.  
+Ship production-ready software.  
+Design with architecture in mind.
