@@ -10,6 +10,13 @@ I design and deploy scalable web platforms and AI-powered microservices.
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mharomoincpass&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mharomoincpass&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mharomoincpass&theme=tokyonight&hide_border=true)
 
 ## 🔥 Core Focus Areas
 
@@ -84,20 +91,12 @@ MariaDB • MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mharomoincpass&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mharomoincpass&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mharomoincpass&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/mharamo-ezung
-- Email: mharomoezs@gmail.com
+- Email: mharomolotha6@gmail.com
 
 ---
 
