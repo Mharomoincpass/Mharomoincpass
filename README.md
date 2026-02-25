@@ -8,9 +8,8 @@ Specialized in production-grade backend systems, NLP pipelines, and cloud deploy
 <p align="center">
   <a href="https://mharomo.systems/" target="_blank">
     <img 
-      src="https://api.microlink.io/?url=https://mharomo.systems/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" 
-      width="600"
-      style="border-radius:16px;"
+      src="https://opengraph.githubassets.com/1/Mharomoincpass/Mharomoincpass" 
+      width="700"
     />
   </a>
 </p>
