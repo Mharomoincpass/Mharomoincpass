@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mharomo%20Ezung&fontSize=42&fontColor=ffffff" />
-</p>
-
 # 👋 Hi, I'm Mharomo Ezung
 
 Tech Lead | ML Systems Engineer | Cloud-Native Architect  
@@ -91,20 +87,3 @@ HuggingFace • Vertex AI • NLP • Embeddings • Model Inference
 
 ### Databases
 MariaDB • MongoDB
-
----
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/mharamo-ezung
-- Email: mharomolotha6@gmail.com
-
----
-
-## ⚡ Philosophy
-
-Build systems that scale.  
-Ship production-ready software.  
-Design with architecture in mind.
