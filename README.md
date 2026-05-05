@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mharomo Ezung
 
-Tech Lead | ML Systems Engineer | Cloud-Native Architect  
+Vice President of Technology | ML Systems Engineer | Cloud-Native Architect  
 
 I design and deploy scalable web platforms and AI-powered microservices.  
 Specialized in production-grade backend systems, NLP pipelines, and cloud deployments across Google Cloud and AWS.
